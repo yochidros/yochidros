@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+more detail 👉 https://yochidros.github.io/
 
 ![](https://github-readme-stats.vercel.app/api?username=yochidros&show_icons=true&theme=radical)
 
