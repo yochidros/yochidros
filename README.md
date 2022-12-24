@@ -17,10 +17,7 @@ Here are some ideas to get you started:
 
 more detail 👉 https://yochidros.github.io/
 
-![](https://github-readme-stats.vercel.app/api?username=yochidros&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yochidros)](https://github.com/anuraghazra/github-readme-stats)
-
+![TopLang](https://github-readme-stats-j0c5ylz9r-yochidros.vercel.app/api/top-langs/?username=yochidros&layout=compact&theme=gruvbox)
 
 - 🌱 I’m currently learning 
   - Rust
