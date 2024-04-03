@@ -20,11 +20,6 @@ more detail 👉 https://yochidros.github.io/
 - 🌱 I’m currently learning 
   - Rust
   - Haskell
-  
-![](https://raw.githubusercontent.com/yochidros/yochidros/main/profile-summary-card-output/gruvbox/0-profile-details.svg)
+  - gleam
 
-## Include orgs
-![](https://raw.githubusercontent.com/yochidros/yochidros/main/profile-summary-card-output/gruvbox/1-repos-per-language.svg)
-
-## Personal only
-![TopLang](https://github-readme-stats-j0c5ylz9r-yochidros.vercel.app/api/top-langs/?username=yochidros&layout=compact&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yochidros&theme=gruvbox) 
