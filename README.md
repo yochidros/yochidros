@@ -21,5 +21,3 @@ more detail 👉 https://yochidros.github.io/
   - Rust
   - Haskell
   - gleam
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yochidros&theme=gruvbox) 
